@@ -7,7 +7,7 @@ Project for INCOMPU Class
 </head>
 <body>
     <h1> Index </h1> <br>
-    <p> Welcome to the index! In this part of the site you can find things such as the about and contact pages' links.</p><br>
+    <p> Welcome to the index! In this part of the site you can find things such as the About and Contact Page's links as well as links containing any of plants or flowers you might like to know about or buy. </p><br>
   <p> <a href="https://www.w3schools.com/html/">About Page</a>  </p> <br>
   <p> <a href="https://www.w3schools.com/html/">Contact Page</a>  </p>
 </body>
