@@ -1,18 +1,36 @@
-# HTMLONLYClassProj
 Project for INCOMPU Class
 <!DOCTYPE html>
 <html>
 <head>
     <title> Gardening For Life </title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
  <body>
-     <body background="https://media.gettyimages.com/photos/garden-flowers-over-wooden-background-picture-id637890514?b=1&k=6&m=637890514&s=612x612&w=0&h=mcvVSCpxGDcAY_487G4zZSA_bGwohELRkc567EZ4nBk=">
-    <h1> Index </h1> 
+    <h1> Index </h1>
     <br> <p> Welcome to the Index for Gardening For Life! In this part of the site you can find things such as the About and Contact pages' links as well as the Category which contains any information on gardening, plants or flowers you might like to know about or buy. </p>
     <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/about.html">About</a> </p>
     <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/contact.html">Contact</a> </p>
   </body>
-</html>  
+</html>
+
+	<!--This is a comment.
+  1. Colors	16. Position
+  2. Backgrounds	17. Overflow
+  3. Borders	18. Float
+  4. Margins	19. Inline-block
+  5. Padding	20. Align
+  6. Height/Width	21. Combinators
+  7. Box Model	22. Pseudo-class
+  8. Outline	 23. Pseudo-element
+  9. Text / Fonts	24. Opacity
+  10. Icons	25. Navigation Bar
+  11. Links	26. Dropdowns
+  12. Lists	27. Image Gallery
+  13. Tables	28. Attr Selectors
+  14. Display	 29. Forms
+  15. Max-width
+  -->
+
 
 
 
@@ -53,4 +71,47 @@ Project for INCOMPU Class
 
 
 
+/* myStyle.css */
+body {
+    background-color: teal;
+}
+h1 {
+    color: khaki;
+    border-top-style: dashed;
+    border-right-style: double;
+    border-bottom-style: dashed;
+    border-left-style: double;
+}
+p {
+    color: lightsalmon;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 100px;
+    outline-style: solid;
+    outline-color: red;
+}
+
+div {
+    padding: 50px 50px 50px 50px;
+    height: 100px;
+    width: 500px;
+}
+/*This is a comment.
+16. Position
+	17. Overflow
+	18. Float
+	19. Inline-block
+	20. Align
+21. Combinators
+7. Box Model	22. Pseudo-class
+8. Outline	 23. Pseudo-element
+9. Text / Fonts	24. Opacity
+10. Icons	25. Navigation Bar
+11. Links	26. Dropdowns
+12. Lists	27. Image Gallery
+13. Tables	28. Attr Selectors
+14. Display	 29. Forms
+15. Max-width
+ */
 
