@@ -6,6 +6,7 @@ Project for INCOMPU Class
     <title> Gardening For Life </title>
 </head>
 <body>
+     <body background="https://media.gettyimages.com/photos/garden-flowers-over-wooden-background-picture-id637890514?b=1&k=6&m=637890514&s=612x612&w=0&h=mcvVSCpxGDcAY_487G4zZSA_bGwohELRkc567EZ4nBk=">
     <h1> Index </h1> <br>
     <p> Welcome to the index! In this part of the site you can find things such as the About and Contact pages' links as well as links containing any of plants or flowers you might like to know about or buy. </p><br>
   <p> <a href="https://www.w3schools.com/html/">About Page</a>  </p> <br> <!--This should be the file for About Page's web link. Move my codes from Notepad++ here and same for the other codes too.-->
