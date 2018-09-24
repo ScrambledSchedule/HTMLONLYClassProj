@@ -3,11 +3,22 @@ Project for INCOMPU Class
 <html>
 <head>
     <title> Gardening For Life </title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css"><!--LINK TO EXTERNAL-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+ul.a {
+    list-style-type: circle;
+}
+
 </head>
  <body>
     <h1> Index </h1>
-    <br> <p> Welcome to the Index for Gardening For Life! In this part of the site you can find things such as the About and Contact pages' links as well as the Category which contains any information on gardening, plants or flowers you might like to know about or buy. </p>
+    <br> <p> Welcome to the Index for Gardening For Life! <i class="fa fa-heart"></i> In this part of the site you can find things such as the About and Contact pages' links as well as the Category which contains any information on gardening, plants or flowers you might like to know about or buy. </p>
+    <ul class="a">
+  <li>Sunflowers</li>
+  <li>Chamomile</li>
+  <li>Audrey White</li>
+</ul>
     <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/about.html">About</a> </p>
     <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/contact.html">Contact</a> </p>
   </body>
@@ -29,7 +40,8 @@ Project for INCOMPU Class
   13. Tables	28. Attr Selectors
   14. Display	 29. Forms
   15. Max-width
-  -->
+             
+	     -->
 
 
 
@@ -71,7 +83,7 @@ Project for INCOMPU Class
 
 
 
-/* myStyle.css */
+/* myStyle.css NOTE: MAKE THE FILES .css for these codes.*/
 body {
     background-color: teal;
 }
@@ -113,7 +125,7 @@ div ~ p {
 	22. Pseudo-class
 	 23. Pseudo-element
 	24. Opacity
-10. Icons	25. Navigation Bar
+25. Navigation Bar
 	26. Dropdowns
 12. Lists	27. Image Gallery
 13. Tables	28. Attr Selectors
