@@ -9,11 +9,33 @@ Project for INCOMPU Class
 ul.a {
     list-style-type: circle;
 }
+#flowers {
+    font-family: Luminari, "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
 
+#flowers td, #flowers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#flowers tr:nth-child(even){background-color: #f2f2f2;}
+
+#flowers tr:hover {background-color: #ddd;}
+
+#flowers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #4CAF50;
+    color: white;
+}
+</style>
 </head>
  <body>
     <h1> Index </h1>
-    <br> <p> Welcome to the Index for Gardening For Life! <i class="fa fa-heart"></i> In this part of the site you can find things such as the About and Contact pages' links as well as the Category which contains any information on gardening, plants or flowers you might like to know about or buy. </p>
+    <br> <p> Welcome to the Index for Gardening For Life! <i class="fa fa-heart"></i> In this part of the site you can find things such as the About and Contact pages' links as well as the Category which contains any information on gardening, plants or flowers you might like to know about or buy. </p> Examples:
     <ul class="a">
   <li>Sunflowers</li>
   <li>Chamomile</li>
@@ -21,6 +43,29 @@ ul.a {
 </ul>
     <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/about.html">About</a> </p>
     <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/contact.html">Contact</a> </p>
+	   
+	   table id="FLOWER CATALOG">
+  <tr>
+    <th>Flower Name</th>
+    <th>Size</th>
+    <th>Sun Requirements</th>
+  </tr>
+  <tr>
+    <td>Sunflower</td>
+    <td>Medium</td>
+    <td>Full sun</td>
+  </tr>
+  <tr>
+    <td>Chamomile</td>
+    <td>Small</td>
+    <td>Full sun</td>
+  </tr>
+  <tr>
+    <td>Audrey White</td>
+    <td>Medium</td>
+    <td>Full sun</td>
+  </tr>
+</table>
   </body>
 </html>
 
@@ -127,8 +172,8 @@ div ~ p {
 	24. Opacity
 25. Navigation Bar
 	26. Dropdowns
-12. Lists	27. Image Gallery
-13. Tables	28. Attr Selectors
+	27. Image Gallery
+	28. Attr Selectors
 14. Display	 29. Forms
 15. Max-width
  */
