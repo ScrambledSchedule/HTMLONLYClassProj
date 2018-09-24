@@ -97,6 +97,10 @@ div {
     height: 100px;
     width: 500px;
 }
+div ~ p {
+    background-color: khaki;
+}
+
 /*This is a comment.
 16. Position
 	17. Overflow
