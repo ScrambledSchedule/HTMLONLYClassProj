@@ -95,6 +95,7 @@ ul.a {
 <html>
   <head>
     <title> About </title>
+    <link rel="stylesheet" type="text/css" href="styles.css"><!--LINK TO EXTERNAL-->
   </head>
   <body>
     <body background="https://media.gettyimages.com/photos/garden-flowers-over-wooden-background-picture-id637890514?b=1&k=6&m=637890514&s=612x612&w=0&h=mcvVSCpxGDcAY_487G4zZSA_bGwohELRkc567EZ4nBk=">
@@ -110,7 +111,8 @@ ul.a {
 <!DOCTYPE html>
 <html>
   <head>
-    <title>  </title>
+    <title>Contact  </title>
+	  <link rel="stylesheet" type="text/css" href="styles.css"><!--LINK TO EXTERNAL-->
   </head>
   <body>
     <body background="https://media.gettyimages.com/photos/garden-flowers-over-wooden-background-picture-id637890514?b=1&k=6&m=637890514&s=612x612&w=0&h=mcvVSCpxGDcAY_487G4zZSA_bGwohELRkc567EZ4nBk=">
@@ -120,7 +122,7 @@ ul.a {
 	  <br> <p>Email: gabbilacson@yahoo.com  </p>
       <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/index.html">Index</a> </p>
       <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/about.html">About</a> </p>
-.  </body>
+  </body>
 </html>  
 
 
