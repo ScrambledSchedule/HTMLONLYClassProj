@@ -63,7 +63,7 @@ Project for INCOMPU Class
 	  <br> <p>Email: gabbilacson@yahoo.com  </p>
       <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/index.html">Index</a> </p>
       <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/about.html">About</a> </p>
-  </body>
+.  </body>
 </html>  
 
 
@@ -75,13 +75,15 @@ Project for INCOMPU Class
 body {
     background-color: teal;
 }
-h1 {
+h1.oblique {
     color: khaki;
     border-top-style: dashed;
     border-right-style: double;
     border-bottom-style: dashed;
     border-left-style: double;
+    font-style: oblique;
 }
+
 p {
     color: lightsalmon;
     margin-top: 100px;
@@ -90,6 +92,7 @@ p {
     margin-left: 100px;
     outline-style: solid;
     outline-color: red;
+    font-family: Luminari, "Times New Roman", serif;
 }
 
 div {
@@ -107,12 +110,11 @@ div ~ p {
 	18. Float
 	19. Inline-block
 	20. Align
-21. Combinators
-7. Box Model	22. Pseudo-class
-8. Outline	 23. Pseudo-element
-9. Text / Fonts	24. Opacity
+	22. Pseudo-class
+	 23. Pseudo-element
+	24. Opacity
 10. Icons	25. Navigation Bar
-11. Links	26. Dropdowns
+	26. Dropdowns
 12. Lists	27. Image Gallery
 13. Tables	28. Attr Selectors
 14. Display	 29. Forms
